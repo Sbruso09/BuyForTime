@@ -21,4 +21,5 @@
     <color name="warning">#ffff9f0a</color>
     <color name="white">#ffffffff</color>
     <color name="separator_opaque">#ff38383a</color>
+    <color name="material_chrome">#e61c1c1e</color>
 </resources>
