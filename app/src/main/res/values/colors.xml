@@ -20,4 +20,5 @@
     <color name="text_tertiary">#4debebf5</color>
     <color name="warning">#ffff9f0a</color>
     <color name="white">#ffffffff</color>
+    <color name="separator_opaque">#ff38383a</color>
 </resources>
