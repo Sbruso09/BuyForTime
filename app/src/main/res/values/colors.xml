@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff5e5ce6</color>
+    <color name="accent_pressed">#ff4b49d1</color>
+    <color name="background">#ff000000</color>
+    <color name="danger">#ffff453a</color>
+    <color name="fill_secondary">#51787880</color>
+    <color name="fill_tertiary">#3d767680</color>
+    <color name="ic_launcher_background">#ff5e5ce6</color>
+    <color name="separator">#99545458</color>
+    <color name="surface">#ff1c1c1e</color>
+    <color name="surface_elevated">#ff2c2c2e</color>
+    <color name="surface_input">#ff3a3a3c</color>
+    <color name="system_gray">#ff8e8e93</color>
+    <color name="system_gray2">#ff636366</color>
+    <color name="system_gray3">#ff48484a</color>
+    <color name="tempo">#ff30d158</color>
+    <color name="text_primary">#ffffffff</color>
+    <color name="text_secondary">#99ebebf5</color>
+    <color name="text_tertiary">#4debebf5</color>
+    <color name="warning">#ffff9f0a</color>
+    <color name="white">#ffffffff</color>
+</resources>

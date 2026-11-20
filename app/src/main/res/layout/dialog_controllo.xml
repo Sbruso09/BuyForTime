@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/dialog_background" android:paddingTop="24.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="20.0dip" android:paddingEnd="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/cerchioControllo" android:background="@drawable/cerchio" android:layout_width="58.0dip" android:layout_height="58.0dip">
+        <ImageView android:id="@id/ivControllo" android:layout_gravity="center" android:layout_width="32.0dip" android:layout_height="32.0dip" android:contentDescription="@null" app:tint="@color/white" />
+    </FrameLayout>
+    <TextView android:textAppearance="@style/TextAppearance.App.Title3" android:gravity="center" android:id="@id/tvTitoloControllo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" />
+    <LinearLayout android:orientation="vertical" android:id="@id/listaControlli" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" />
+    <com.google.android.material.button.MaterialButton android:id="@id/btnPrimarioControllo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" style="@style/Widget.App.Button" />
+    <com.google.android.material.button.MaterialButton android:id="@id/btnSecondarioControllo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" style="@style/Widget.App.Button.Text" />
+</LinearLayout>
